@@ -1,3 +1,7 @@
+*** Update for use
+This repo uses 'yarn' instead 'npm'.
+Update to ## TO Use.
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
@@ -24,9 +28,9 @@ git clone https://github.com/electron/electron-quick-start
 # Go into the repository
 cd electron-quick-start
 # Install dependencies
-npm install
+yarn install
 # Run the app
-npm start
+yarn start
 ```
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
