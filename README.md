@@ -1,4 +1,4 @@
-*** Update for use
+*** Update
 This repo uses 'yarn' instead 'npm'.
 Update to ## TO Use.
 
